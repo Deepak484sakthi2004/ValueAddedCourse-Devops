@@ -15,7 +15,6 @@ sudo apt-get update
 - Java
        ```bash
   sudo apt-get install openjdk-11-jdk
-
      ```
 - Git, Maven
      ```bash
