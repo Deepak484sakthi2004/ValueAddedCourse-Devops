@@ -12,8 +12,8 @@ A simple demonstration of complete FreeStyle project using Jenkins.
 - [Usage](#usage)
 
 ## Getting Started
-Create a AWS cloud Account and create three EC2 intances of ubuntu linux AMI, else use any of the Virtualization
-software to create three VM's
+. Create a AWS cloud Account and create three EC2 intances of ubuntu linux AMI, else use any of the Virtualization
+. software to create three VM's
 Name them JenkinsServer, QAserver and ProdServer namely
 
 ### Prerequisites
