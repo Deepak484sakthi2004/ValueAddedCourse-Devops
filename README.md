@@ -1,7 +1,5 @@
 # ValueAddedCourse-Devops
-## PRODUCTIONIZE A SIMPLE JAVA APPLICATION
-Using Maven for packaging the java application and Integraring it using Jenkins
-
+A simple demonstration of complete FreeStyle project using Jenkins.
 ## Table of Contents
 
 - [Getting Started](#getting-started)
