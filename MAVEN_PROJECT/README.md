@@ -9,33 +9,33 @@ Name them JenkinsServer, QAserver and ProdServer namely
 ### Required Dependencies 
 # Jenkins Server
 Clone to the apt repository, to get the updates to the local machine!
-       ```bash
+       ```cmd
 sudo apt-get update
      ```
 - Java
-       ```bash
+       ```cmd
   sudo apt-get install openjdk-11-jdk
      ```
 - Git, Maven
-     ```bash
+     ```cmd
 sudo apt-get install git maven
 ```
 - Jenkins
-       ```bash
+       ```cmd
 wget .jar // jenkins download jar file from jenkins.io
      ```
 
 # QA and Prod Server
 Clone to the apt repository, to get the updates to the local machine!
-       ```bash
+       ```cmd
 sudo apt-get update
      ```
 - tomcat9
-       ```bash
+       ```cmd
 sudo apt-get install tomcat9
      ```
 -tomcat9 -admin
-       ```bash
+       ```cmd
 sudo apt-get install tomcat9 -admin
      ```
 
