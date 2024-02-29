@@ -6,16 +6,13 @@ Using Maven for packaging the java application and Integraring it using Jenkins
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Jenkins Integration](#jenkins-integration)
-  - [Jenkins Server Setup](#jenkins-server-setup)
-  - [QA and Prod Server Setup](#qa-and-prod-server-setup)
-  - [Integrating Java Application](#integrating-java-application-using-maven-and-jenkins)
-- [Usage](#usage)
+- [Maven Integration](#maven-integration)
+  - [Maven Environment Setup](#env-setup)
+  - [Creating Maven project](#project-creation)
+  - [Integrating Java Application](#integrating-java-application-using-maven)
+#################################################################################
 
 ## Getting Started
-Create a AWS cloud Account and create three EC2 intances of ubuntu linux AMI, else use any of the Virtualization
-software to create three VM's
-Name them JenkinsServer, QAserver and ProdServer namely
 
 ### Prerequisites
 
@@ -95,7 +92,4 @@ Before you begin, ensure you have the following:
 5. **Build and Deploy:**
    - Trigger the Jenkins job manually or set up webhooks to trigger builds automatically on code changes.
    - Verify that the artifacts are deployed to the QA and Prod servers.
-
-## Usage
-
 
