@@ -11,8 +11,6 @@ Using Maven for packaging the java application and Integraring it using Jenkins
   - [QA and Prod Server Setup](#qa-and-prod-server-setup)
   - [Integrating Java Application](#integrating-java-application-using-maven-and-jenkins)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 Create a AWS cloud Account and create three EC2 intances of ubuntu linux AMI, else use any of the Virtualization
@@ -100,12 +98,4 @@ Before you begin, ensure you have the following:
 
 ## Usage
 
-Describe how to use and interact with your project.
 
-## Contributing
-
-If you'd like to contribute, please fork the repository and create a pull request.
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
